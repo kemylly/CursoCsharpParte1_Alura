@@ -1,0 +1,13 @@
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.exe
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.deps.json
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.json
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.genruntimeconfig.cache

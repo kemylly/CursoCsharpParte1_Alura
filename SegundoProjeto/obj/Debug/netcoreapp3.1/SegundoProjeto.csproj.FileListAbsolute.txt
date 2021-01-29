@@ -1,0 +1,13 @@
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\bin\Debug\netcoreapp3.1\SegundoProjeto.exe
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\bin\Debug\netcoreapp3.1\SegundoProjeto.deps.json
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\bin\Debug\netcoreapp3.1\SegundoProjeto.runtimeconfig.json
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\bin\Debug\netcoreapp3.1\SegundoProjeto.runtimeconfig.dev.json
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\bin\Debug\netcoreapp3.1\SegundoProjeto.dll
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\bin\Debug\netcoreapp3.1\SegundoProjeto.pdb
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.csprojAssemblyReference.cache
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.AssemblyInfo.cs
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.dll
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.pdb
+C:\Users\KYCS\My Private Documents\Formacao_CSharp\Aula1\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.genruntimeconfig.cache
